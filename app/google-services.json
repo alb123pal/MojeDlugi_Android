@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "727501306188",
+    "firebase_url": "https://mojedlugi-ebbf0.firebaseio.com",
+    "project_id": "mojedlugi-ebbf0",
+    "storage_bucket": "mojedlugi-ebbf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727501306188:android:e756834b560f4d00",
+        "android_client_info": {
+          "package_name": "jedrek.example.com.mojedlugi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727501306188-v6hsoca4uj10ou976l3h6npjmkfb2nph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jedrek.example.com.mojedlugi",
+            "certificate_hash": "f07f446d95b1e21a8744c78ce468566b8208bfde"
+          }
+        },
+        {
+          "client_id": "727501306188-3oko5lhaitripd8tc9pa4n5er10o84tr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jedrek.example.com.mojedlugi",
+            "certificate_hash": "6e534d08a2297a361e44c853f739fe61b7b2b2cf"
+          }
+        },
+        {
+          "client_id": "727501306188-597tuen37rl46njqt5h7a6e3m0od2gvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc5GFJMpoUUD-ckdwiS8LYVQUlC-cxBlI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727501306188-597tuen37rl46njqt5h7a6e3m0od2gvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
